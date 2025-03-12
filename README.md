@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ally Nesta  
 
-<!--
-**Allynesta/Allynesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer | Tech Enthusiast | Web App Builder**  
+🔹 Passionate about building modern web applications  
+🔹 Currently working on **[MyPlanner](https://myplanner-api.vercel.app/)**  
+🔹 Currently working on **[My Personal Portfolio](https://devmycv-allynesta.vercel.app/)**  
 
-Here are some ideas to get you started:
+## 🛠️ My Work  
+🌍 [**My CV Website**](https://devmycv-allynesta.vercel.app/)  
+📌 [**GitHub Projects**](https://github.com/Allynesta?tab=repositories)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/nesta-ally-9101231b7/)  
+
+📧 **Contact me:** ally_nesta@outlook.com  
